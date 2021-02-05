@@ -114,9 +114,15 @@
     "userIcon": ":green_circle:"
   },
   {
+    "name": "ircda",
+    "allyCode": "681174123",
+    "tagIdOnDrop": "&806987013638586461",
+    "userIcon": ":red_circle:"
+  },
+  {
     "name": "VegaBond",
     "allyCode": "353387114",
-    "userIcon": ":red_circle:"
+    "userIcon": ":green_circle:"
   },
   {
     "name": "ATTRITION",
@@ -229,11 +235,6 @@
   {
     "name": "Topgun",
     "allyCode": "776352595",
-    "userIcon": ":red_circle:"
-  },
-  {
-    "name": "ircda",
-    "allyCode": "681174123",
     "userIcon": ":red_circle:"
   },
   {
