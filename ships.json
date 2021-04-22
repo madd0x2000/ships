@@ -120,6 +120,12 @@
     "userIcon": ":green_circle:"
   },
   {
+    "name": "PeppNosePete",
+    "allyCode": "525959459",
+    "tagIdOnDrop": "274279353968230401",
+    "userIcon": ":green_circle:"
+  },
+  {
     "name": "VegaBond",
     "allyCode": "353387114",
     "userIcon": ":red_circle:"
@@ -255,11 +261,6 @@
   {
     "name": "Auris",
     "allyCode": "767391986",
-    "userIcon": ":red_circle:"
-  },
-  {
-    "name": "PeppNosePete",
-    "allyCode": "525959459",
     "userIcon": ":red_circle:"
   },
   {
