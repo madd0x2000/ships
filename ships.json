@@ -126,6 +126,12 @@
     "userIcon": ":green_circle:"
   },
   {
+    "name": "Hase",
+    "allyCode": "573219771",
+    "tagIdOnDrop": "550900600640897055",
+    "userIcon": ":green_circle:"
+  },
+  {
     "name": "VegaBond",
     "allyCode": "353387114",
     "userIcon": ":red_circle:"
@@ -157,12 +163,6 @@
     "userIcon": ":red_circle:"
   },
   {
-    "name": "Hase",
-    "allyCode": "573219771",
-    "tagIdOnClimb": "&804359096656068680",
-    "userIcon": ":red_circle:"
-  },
-  {
     "name": "Force",
     "allyCode": "598173813",
     "userIcon": ":red_circle:"
@@ -185,6 +185,7 @@
   {
     "name": "yuri",
     "allyCode": "738873395",
+    "tagIdOnClimb": "&804359096656068680",
     "userIcon": ":red_circle:"
   },
   {
